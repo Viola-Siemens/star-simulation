@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: "Assets/Scenes/\u4E09\u4F53.unity"
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: "Assets/Scenes/\u5927\u7206\u70B8.unity"
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
